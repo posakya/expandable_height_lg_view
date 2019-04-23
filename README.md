@@ -26,13 +26,19 @@ Step 3 : Call it on xml layout
               /*
 
               for expandable height list view
-
+	    
+	      */
                        <com.ar_tech.expandable_height_lg_view.ExpandableHeightListView
                           android:layout_width="match_parent"
                           android:layout_height="wrap_content"
                           android:id="@+id/lv">
                       </com.ar_tech.expandable_height_lg_view.ExpandableHeightListView>
 
+ 	      /*
+
+              for expandable height grid view
+	    
+	      */
                       <com.ar_tech.expandable_height_lg_view.ExpandableHeightGridView
                           android:layout_width="match_parent"
                           android:layout_height="wrap_content"
